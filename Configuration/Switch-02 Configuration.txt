@@ -1,1 +1,26 @@
+## ⚙️ Configuration Commands
 
+enable
+configure terminal
+
+vlan 10
+ name Sales
+exit
+
+vlan 20
+ name HR
+exit
+
+interface FastEthernet0/1
+ switchport mode access
+ switchport access vlan 10
+exit
+
+interface FastEthernet0/2
+ switchport mode access
+ switchport access vlan 20
+exit
+
+interface FastEthernet0/10
+ switchport mode trunk
+exit
