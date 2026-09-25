@@ -1,5 +1,9 @@
 Cisco-Packet-Tracer-Lab-02-Small-Office-Network-Lab
 
+## 🎥 Demo
+
+[![Watch Demo on LinkedIn](https://img.shields.io/badge/Watch%20Demo-LinkedIn-blue?logo=linkedin)](https://lnkd.in/p/gNHg47zd)
+
 A comprehensive Cisco Packet Tracer lab demonstrating **Inter-VLAN Routing (Router-on-a-Stick)** and **Trunking Configuration** across multiple switches.
 
 ---
